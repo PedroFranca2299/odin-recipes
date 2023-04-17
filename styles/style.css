@@ -1,0 +1,13 @@
+body {
+    background-color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main-title {
+    text-align: center;
+
+}
+
+.list {
+    text-align: center;
+}
