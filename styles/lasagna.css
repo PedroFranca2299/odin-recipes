@@ -1,0 +1,20 @@
+body {
+    background-color: burlywood;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.main-title {
+    text-align: center;
+}
+
+.description {
+    font-style: italic;
+}
+
+.sauce-list,
+.noodle-list,
+.sauce-ol,
+.lasagna-ol {
+    text-align: left;
+}
